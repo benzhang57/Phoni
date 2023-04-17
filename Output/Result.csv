@@ -1,0 +1,4 @@
+Dataset,Layer,Attacker,Knowledge,Defense,Epoch,Burn In,Alpha,Beta,Lam,Noise Scale,Data Scale,Phoni Size,Phoni Number,Utility,MSE,SSIM,PSNR,Time
+Fashion,0,Inversion,White-Box,Phoni,10,3,1.5,0.005,0.01,10,1.25,100,3,71.73,105.16,0.03,8.56,2306
+Fashion,0,Inversion,White-Box,Gau,10,3,1.5,0.005,0.01,10,1.25,100,3,74.85,105.3,0.04,9.18,1603
+Fashion,0,Inversion,White-Box,None,10,3,1.5,0.005,0.01,10,1.25,100,3,80.06,4.01,0.96,44.17,1440
